@@ -1,0 +1,18 @@
+{
+    "short_name": "Aprendendo PWA",
+    "name": "Chicken Cia - PWA",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "Praticando criação de uma PWA",
+    "icons": [
+      {
+        "src": "images/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
